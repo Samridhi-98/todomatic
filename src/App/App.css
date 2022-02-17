@@ -26,4 +26,22 @@
   margin-left: 5px;
   padding: 8px;
   font-size: medium;
+  cursor: pointer;
+}
+.message{
+  border: 2px solid #FFCC5C;
+  border-radius: 5px;
+  padding: 5px;
+  width: 20vw;
+  margin: 2vh auto;
+  filter: drop-shadow(0 0 0.25rem #FFCC5C);
+}
+
+@media  screen and (max-width: 600px) {
+  .form-input{
+    width: 80vw;
+  }
+  .message{
+    width: 80vw;
+  }
 }
