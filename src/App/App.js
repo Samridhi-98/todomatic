@@ -25,9 +25,6 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        {/* <p>
-          Todomatic
-        </p> */}
         <div className="app-body">
           <p className="meta">👋🏻 It's {today}</p>
           <form className="todo-form" onSubmit={handleSubmit}>

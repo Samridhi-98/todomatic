@@ -1,4 +1,3 @@
-// import { useState } from "react";
 import "./TodoList.css";
 function TodoList(props) {
     const displayList = () => {
@@ -6,7 +5,6 @@ function TodoList(props) {
             return <p
                 className="list-item"
                 key={index}
-                style={item.marked ? { textDecoration: "line-through" } : { textDecoration: "none" }}
                 onClick={() => props.delete(index)}>
                 {item}
             </p>
