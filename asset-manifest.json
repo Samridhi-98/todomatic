@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/todomatic/static/css/main.7e2b314f.css",
-    "main.js": "/todomatic/static/js/main.21bb560a.js",
+    "main.css": "/todomatic/static/css/main.8071d7ec.css",
+    "main.js": "/todomatic/static/js/main.b5038be5.js",
     "index.html": "/todomatic/index.html",
-    "main.7e2b314f.css.map": "/todomatic/static/css/main.7e2b314f.css.map",
-    "main.21bb560a.js.map": "/todomatic/static/js/main.21bb560a.js.map"
+    "main.8071d7ec.css.map": "/todomatic/static/css/main.8071d7ec.css.map",
+    "main.b5038be5.js.map": "/todomatic/static/js/main.b5038be5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e2b314f.css",
-    "static/js/main.21bb560a.js"
+    "static/css/main.8071d7ec.css",
+    "static/js/main.b5038be5.js"
   ]
 }
