@@ -1,0 +1,11 @@
+.list-item{
+    /* text-decoration: line-through; */
+    background-color: #FFCC5C;
+    height: 5vh;
+    width: 20vw;
+    margin: 2vh auto;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    filter: drop-shadow(0 0 0.25rem #ff625c);
+}
